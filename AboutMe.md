@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @WasiK-Kabir
+- 👋 Hi, I’m @WasiqKabir
 - 🌱 I’m a student of Computer Science
 - 📫 How to reach me @wasickmania
 
