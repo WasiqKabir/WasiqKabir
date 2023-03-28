@@ -1,8 +1,4 @@
-- 👋 Hola, I’m Wasiq Kabir
-- 🌱 I’m Software Engineer
-- 📫 How to reach me @wasickmania
-
-# 💫 About Me:
+ 💫 About Me:
 - 👋 Hola, I’m Wasiq Kabir<br>- 🌱 I’m Software Engineer<br>- 📫 How to reach me @wasik.kabir777@gmail.com
 
 
