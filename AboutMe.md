@@ -1,5 +1,5 @@
  💫 About Me:
-- 👋 Hola, I’m Wasiq Kabir<br>- 🌱 I’m Software Engineer<br>- 📫 How to reach me @wasik.kabir777@gmail.com
+- 👋 Hola, I’m Wasiq Kabir<br>- 🌱 I’m Software Engineer<br>- Currently working as a Full Stack Web Developer<br>📫 How to reach me @wasik.kabir777@gmail.com
 
 
 ## 🌐 Socials:
